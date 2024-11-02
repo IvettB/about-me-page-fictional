@@ -1,0 +1,78 @@
+body {
+color: #640A26;
+font-size: 1em;
+font-family: Georgia;
+background-color: #FFE2D1;
+}
+
+.masthead {
+padding: 1em 0;
+background-image: url('https://as1.ftcdn.net/v2/jpg/03/08/29/28/1000_F_308292883_xqNQ5giaLPZeEWrpthPg96kGI91fYrAL.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+border-top: solid .25em #C98CA7;
+border-bottom: solid .25em #C98CA7;
+color: #E2AFDE;
+}
+
+.links-footer,
+.masthead-heading,
+.masthead-intro,
+.intro,
+.date {
+text-align: center;
+}
+
+.masthead-intro {
+margin-bottom: 0.1em;
+font-size: 3em;
+font-family: Georgia;
+letter-spacing: .06em;
+}
+
+.masthead-heading {
+margin-top: -0.3em;
+font-size: 4em;
+font-family: Georgia;
+font-weight: light;
+letter-spacing: .18em;
+text-transform: uppercase;
+}
+
+.intro-sec,
+.loc-sec,
+.more-sec {
+max-width: 38em;
+margin-left: auto;
+margin-right: auto;
+margin-top: 4em; 
+padding: 1em;
+border: outset;
+background: #F8C0C8;
+}
+
+.intro-sec > p,
+.loc-sec > p,
+.more-sec > p {
+font-weight: 350;
+letter-spacing: .05em
+}
+
+.more-sec > h2 {
+font-family: Georgia;
+font-size: 1.2 em;
+font-weight: bold;
+}
+
+.links-footer {
+max-width: 38em;
+margin-left: auto;
+margin-right: auto;
+margin-top: 4em;
+margin-bottom: 4em;
+}
+
+.intro {
+font-family: Rockwell;
+margin-top: 4em;
+}
